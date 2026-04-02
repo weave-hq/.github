@@ -1,4 +1,4 @@
-# Weave Labs
+# Weave HQ
 
 We build systems that amplify human capability through coordinated intelligence.
 
