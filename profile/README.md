@@ -8,6 +8,8 @@ Loom is a platform for coordinated intelligence.
 
 It orchestrates specialized programs to investigate, reason, and act across systems—scaling what operators can do without replacing them.
 
+Loom specifically targets complex IT Operations in multi-vendor and multi-team organizations. 
+
 ## How Loom works
 
 Loom is built around a small set of core concepts:
