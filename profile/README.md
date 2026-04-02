@@ -25,10 +25,10 @@ Like the industrial loom increased the demand for skilled textile work, Loom inc
 
 ## Repositories
 
-- `loom-control` — orchestration and execution
-- `loom-core` — internal platform services
+- `loom-core` — loom-control orchestration and internal platform services
 - `loom-ui` — user interface
 - `loom-cli` — command-line interface
+- `loom-platform` - distribution + release-control system
 
 ---
 
